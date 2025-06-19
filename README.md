@@ -150,10 +150,10 @@ Voltka is licensed under the [Apache 2.0 License](LICENSE). See the LICENSE file
 - **Settings**: Configure display options, theme, and Dock behavior.
   ![Settings View](https://github.com/apexmacworkshop/Voltka/raw/main/preview_screenshots/Voltka%20Settings%20Screenshot.png)
 
-- **Terminal CPU Usage**: Displays CPU usage when running Voltka.
-  ![Terminal CPU Usage](https://github.com/apexmacworkshop/Voltka/raw/main/preview_screenshots/Voltka%20Terminal%20CPU%20Usage%20Screenshot.png)
+- **Low CPU Usage**: Voltka uses minimal CPU.
+  ![Activity Monitor CPU Usage](https://github.com/apexmacworkshop/Voltka/raw/main/preview_screenshots/Voltka%20Terminal%20CPU%20Usage%20Screenshot.png)
 
 ---
 
 Thank you for using Voltka! For issues or feature requests, please open an issue on the [GitHub repository](https://github.com/apexmacworkshop/Voltka).
-Built With Love. 
+Built With Love for MacOS by Gordon.H
